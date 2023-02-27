@@ -1,12 +1,13 @@
 ![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1380)
 <h1 align="center">Hi 👋, I'm Abhijit singh</h1>
 <h3 align="center">Full stack web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+<!-- <img align="center" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijit-singh04&label=Profile%20views&color=0e75b6&style=flat" alt="abhijit-singh04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijit-singh04" alt="abhijit-singh04" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhijit-singh04" alt="abhijit-singh04" /></a> </p>
 
 - 🔭 I’m currently working on **AeyeImage**
 
